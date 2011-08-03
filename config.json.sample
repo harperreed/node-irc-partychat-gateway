@@ -1,0 +1,9 @@
+module.exports = {
+	'jid': 'identity@jabber.org',
+	'jid_password': 'supersecretpassword',
+	'target_jid' : 'target@partychapp.appspotchat.com',
+	'irc_channel': '#gateway',
+	'irc_server': 'irc.server.net',
+	'irc_nick': 'gateway',
+}
+
